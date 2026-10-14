@@ -48,7 +48,7 @@ const projects = [
 
     number: "01",
 
-    title: "Student Management System",
+    title: "College Management System",
 
     description:
 
