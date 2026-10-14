@@ -364,11 +364,11 @@ export default function App() {
 
             </div>
 
-            <div className="floating-badge badge-python">Python</div>
+            {/* <div className="floating-badge badge-python">Python</div> */}
 
-            <div className="floating-badge badge-react">React.js</div>
+            {/* <div className="floating-badge badge-react">React.js</div> */}
 
-            <div className="floating-badge badge-django">Django REST</div>
+            {/* <div className="floating-badge badge-django">Django REST</div> */}
 
           </div>
 
